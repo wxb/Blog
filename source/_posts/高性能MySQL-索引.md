@@ -14,8 +14,7 @@ original:
 permalink:
 ---
 
-索引
-
+![mysql](/Blog/images/mysql/1626140.jpg)
 <!-- more -->
 
 # 索引是什么？
