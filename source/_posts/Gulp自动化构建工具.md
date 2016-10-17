@@ -1,8 +1,9 @@
 title: Gulp自动化构建工具
 categories:
-  - null
+  - FE前端
 tags:
-  - null
+  - 自动化
+  - 学习笔记
 toc: true
 author: 王晓勃
 comments: true
@@ -13,7 +14,7 @@ permalink:
 ---
 
 # Gulp 自动化构建工具   
-
+![Gulp](https://github.com/wxb/FE/blob/master/gulp/gulp.png?raw=true)
 看到这个“自动化构建工具”是不是有些似曾相识呢？ 对的，没错，大名鼎鼎的Grunt也是做这件事情的，当然百度Fis3也是，就相当于PHP中的各种框架，可能Gulp就像当下在PHP中的laravel吧。
 <!-- more -->
 
