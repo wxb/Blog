@@ -4,6 +4,7 @@ categories:
 tags:
   - 自动化
   - 学习笔记
+  - 原创
 toc: true
 author: 王晓勃
 comments: true
