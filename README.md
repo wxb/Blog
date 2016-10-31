@@ -11,7 +11,7 @@ Hi！I'm wangxb！
 
 ## Intro
 
-个人博客站点－基于`hexo 3.+`
+[个人博客站点](http://wxb.github.io/Blog)－基于`hexo 3.+`
 
 ## Help 
 关于hexo 是个什么东东？可以通过下面的链接去了解：   
