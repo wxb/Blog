@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://wxb.github.io
-root: /Blog/
+root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:
 
@@ -73,11 +73,9 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:wxb/Blog.git
-  branch: gh-pages
+  repo: git@github.com:wxb/wxb.github.io.git
+  branch: master
   message: 'updated by wangxb'
-    #github: git@github.com:wxb/Blog.git,master
-    #github: git@github.com:wxb/Blog.git,gh-pages
 
 
 avatar: /images/wangxb.jpg
