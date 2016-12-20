@@ -1,7 +1,6 @@
 title: 好好玩git之git-config
 categories:
   - git
-  - git-config
 tags:
   - 好好玩git
 toc: true
@@ -102,7 +101,7 @@ git是什么？关于git的身世和作用本篇不做赘述，网上相关资�
      user.email=wangxiaobo@moguzx.com
      ```
      但是我的github应该是:
-     
+
      ```
      user.name=wxb
      user.email=wxb0328@icloud.com
