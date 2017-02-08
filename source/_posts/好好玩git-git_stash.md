@@ -5,6 +5,7 @@ tags:
   - git-stash
   - git小技巧
   - 小技巧解决大烦恼
+  - 版本控制
 toc: true
 author: 王晓勃
 comments: true
