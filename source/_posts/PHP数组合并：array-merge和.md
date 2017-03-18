@@ -1,8 +1,8 @@
 title: PHP数组合并：array_merge和+
 categories:
-  - null
+  - PHP
 tags:
-  - null
+  - 数组合并
 toc: true
 author: 王晓勃
 comments: true
