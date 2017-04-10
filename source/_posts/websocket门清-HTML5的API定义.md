@@ -1,9 +1,10 @@
 ---
 title: websocket门清-HTML5的API定义
 categories:
-  - null
+  - websocket
 tags:
-  - null
+  - Workman
+  - HTML5
 toc: true
 author: 王晓勃
 comments: true
