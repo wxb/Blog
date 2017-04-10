@@ -22,4 +22,6 @@ permalink:
 
 想你了~~
 
+既然决定等待，那就好好坚持，加油
+
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=468868272&auto=1&height=66"></iframe>
