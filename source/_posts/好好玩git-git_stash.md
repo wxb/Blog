@@ -1,4 +1,4 @@
-title: 好好玩git-git_stash
+title: 好好玩git:git-stash
 categories:
   - git
 tags:

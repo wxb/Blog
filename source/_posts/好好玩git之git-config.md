@@ -1,4 +1,4 @@
-title: 好好玩git之git-config
+title: 好好玩git:git-config
 categories:
   - git
 tags:
