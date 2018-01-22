@@ -12,7 +12,8 @@ install:
   - npm install
 
 before_script:
-  - npm install -g hexo 
+  - nvm install v7.4.0
+  - nvm use v7.4.0
 
 script:
   - hexo clean
