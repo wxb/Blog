@@ -13,6 +13,7 @@ install:
 
 before_script:
   - npm install -g gulp
+  - npm install gulp --save-dev
 
 script:
   - gulp dist
