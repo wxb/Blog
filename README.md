@@ -16,11 +16,11 @@
 不服，争取
 
 ## 联系我
-**地点：**`西安`
-**QQ:** `670980598`
-**脉脉:** `wangxb`
-**E-mail:** `wxb0328@icoud.com`
-**GitHub:** `github.com/wxb`
+**地点：**`西安`   
+**QQ:** `670980598`    
+**脉脉:** `wangxb`    
+**E-mail:** `wxb0328@icoud.com`    
+**GitHub:** `github.com/wxb`     
 
 
 ## 资料
