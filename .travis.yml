@@ -10,15 +10,13 @@ cache:
 # S: Build Lifecycle
 install:
   - npm install
+  - nvm install v7.4.0
 
 before_script:
-  - nvm install v7.4.0
   - nvm use v7.4.0
 
 script:
   - hexo generate
-  - cd ./public
-  - cat index.html
 
 after_script:
   - cd ./public
