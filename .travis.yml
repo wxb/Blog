@@ -34,5 +34,5 @@ branches:
 
 env:
   global:
-    - GH_REF: github.com/wxb/Blog.git
+    - GH_REF: github.com/wxb/wxb.github.io.git
     - secure: "MGAK1kf0nmqKvDt4N3dp4q6bJg7BXIuRYriWB3bhG+z32OGnhsuFvt9XtXRoefRB7dPPlYsb6EO2+eU9iWtJ/kQXiyKZ/81wxrJBSsRKFd5p1gurQx2fDNa1lE+3mdZxRKt9mSjUc/osxFtqb69Z1PpDpIj5QHJx3pPpf77olSgTZ2pSf+A++Zkcix5UgQtHVr28qO07qXdlWAMHe4VhLW8Ug61zitu4I8Ykct57ZfdIQwpgqjND14TNq//zw7iPUT015AoF3Lwd2s+WcsOqXYbp2fjf/83R4anc3a4fJpMqwn8TTAbQcQ+GtTSihiGGRWSiv6Ftx7qaFpYbGPrp63/XrCbuhYoD91NIFyhAGLwPxiAlDN+kigxKSMQ9A5v4ffUTRS3/viB3uIGBqN+IDX1a3+mGvQN4r7BphkRA6sefIJHTOsnxzbPVzNc4agFwvvtu75VhfsdBM2Wz79eQUameWRMEzCvt9SBLchPZX+LqE+Ms0o6cK2TCcOc+CKe4sD+zbOdcR1hbbXreLzQ7+PF6Ax3/H9n6y1Pu59WNqUIXd1ISEEg6sXcsFGdw57IEGUxqKvblNKpAdZ373Ds16k1avC+/YNeb/HtzeaozPJ2vPxn2fXVwOPyaSI82qAmLKMgPqlySixGgVNiFmxqIysYcc4JZm263YTj3FHTnhlY="
