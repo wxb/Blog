@@ -16,11 +16,10 @@ before_script:
   - nvm use v7.4.0
 
 script:
-  - hexo clean
   - hexo generate
 
 after_script:
-  - cd public
+  - cd ./public
   - git init
   - git config user.name "王晓勃"
   - git config user.email "wxb0328@icloud.com"
