@@ -1,4 +1,4 @@
-# Blog
+# Blog  [![Build Status](https://travis-ci.org/wxb/wxb.github.io.svg?branch=source)](https://travis-ci.org/wxb/wxb.github.io)
 
 ## what's this?
 
