@@ -25,12 +25,12 @@ after_script:
   - git config user.email "wxb0328@icloud.com"
   - git add .
   - git commit -m "Update docs by wangxb"
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
 # E: Build LifeCycle
 
 branches:
   only:
-    - master
+    - source
 
 env:
   global:
