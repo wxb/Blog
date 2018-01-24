@@ -1,13 +1,12 @@
 # 雕刻时光(博客)  
 [![站点](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89-yellowgreen.svg)](https://wxb.github.io)
+[![author](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8E%8B%E6%99%93%E5%8B%83-brightgreen.svg)](https://wxb.github.io/2016/08/30/%E5%85%B3%E4%BA%8E%E6%88%91.html)
 [![Build Status](https://travis-ci.org/wxb/wxb.github.io.svg?branch=source)](https://travis-ci.org/wxb/wxb.github.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/wxb/wxb.github.io.svg)](https://github.com/wxb/wxb.github.io/commits/v1.0.0)
 [![GitHub issues](https://img.shields.io/github/issues/wxb/wxb.github.io.svg?style=flat-square)](https://github.com/wxb/wxb.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/wxb/wxb.github.io.svg)](https://github.com/wxb/wxb.github.io/releases/tag/v1.0.0)
 [![GitHub stars](https://img.shields.io/github/stars/wxb/wxb.github.io.svg?style=social&label=Stars)](https://github.com/wxb/wxb.github.io)
 [![GitHub watchers](https://img.shields.io/github/watchers/wxb/wxb.github.io.svg?style=social&label=Watch)](https://github.com/wxb/wxb.github.io)
-[![author](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8E%8B%E6%99%93%E5%8B%83-brightgreen.svg)](https://wxb.github.io/2016/08/30/%E5%85%B3%E4%BA%8E%E6%88%91.html)
-[![GitHub followers](https://img.shields.io/github/followers/wxb.svg?style=social&label=Follow)](https://github.com/wxb)
-[![GitHub release](https://img.shields.io/github/release/wxb/wxb.github.io.svg)](https://github.com/wxb/wxb.github.io/releases/tag/v1.0.0)
 
 ## 什么东东？
 
