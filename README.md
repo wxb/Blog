@@ -1,5 +1,9 @@
 # 博客(雕刻时光)  
+[![GitHub followers](https://img.shields.io/github/followers/wxb.svg?style=social&label=Follow)](https://github.com/wxb)
 [![Build Status](https://travis-ci.org/wxb/wxb.github.io.svg?branch=source)](https://travis-ci.org/wxb/wxb.github.io)
+[![GitHub stars](https://img.shields.io/github/stars/wxb/wxb.github.io.svg?style=social&label=Stars)](https://github.com/wxb/wxb.github.io)
+[![GitHub watchers](https://img.shields.io/github/watchers/wxb/wxb.github.io.svg?style=social&label=Watch)](https://github.com/wxb/wxb.github.io)
+[![GitHub issues](https://img.shields.io/github/issues/wxb/wxb.github.io.svg?style=flat-square)](https://github.com/wxb/wxb.github.io/issues)
 
 ## 什么东东？
 
