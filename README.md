@@ -1,4 +1,4 @@
-# 博客(雕刻时光)  
+# 雕刻时光(博客)  
 [![站点](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89-yellowgreen.svg)](https://wxb.github.io)
 [![Build Status](https://travis-ci.org/wxb/wxb.github.io.svg?branch=source)](https://travis-ci.org/wxb/wxb.github.io)
 [![GitHub issues](https://img.shields.io/github/issues/wxb/wxb.github.io.svg?style=flat-square)](https://github.com/wxb/wxb.github.io/issues)
@@ -9,13 +9,14 @@
 
 ## 什么东东？
 
-这是自己博客仓库，基于hexo框架和next模板。博客主页是：https://wxb.github.io 。欢迎大家拍砖！   
+这是我的博客仓库，基于hexo框架和next模板。博客主页是：https://wxb.github.io 。欢迎大家拍砖！   
+> 仓库有两个分支:    
 > * source 是博客源码
 > * master 是博客生成的静态文件
 
 ## 我是谁？
 
-* 一个立足于PHP|Python的专业码农
+* PHP|Python的全栈码农
 * 一个有理想，有追求的码农  
 
 ## 信念
