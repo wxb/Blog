@@ -17,6 +17,7 @@
 
 ## 我是谁？
 
+![me](source/images/profile/me.jpg)
 * PHP|Python的全栈码农
 * 一个有理想，有追求的码农  
 
