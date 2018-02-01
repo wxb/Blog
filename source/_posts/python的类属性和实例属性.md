@@ -13,7 +13,18 @@ original:
 permalink:
 ---
 
+# 问题概述
+
 <!-- more -->
+
+
+# 类属性和实例属性
+
+
+# 验证两者关系和使用特性
+
+
+> 以下验证环境是: `python 2.7.10`; 对于 `python 3.x.x` 是否一样，按照下面的方法，请大家自行验证，
 
 ```python
 class Student(object):
@@ -38,3 +49,8 @@ stu_a.preparams({})
 stu_b.preparams(dict())
 
 ```
+
+# 用法注意
+
+
+# 总结
