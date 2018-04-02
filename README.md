@@ -41,9 +41,8 @@
 
 
 ## 赞赏👍
-<div style="width:280px;margin: 0 auto 0 0;">
 ![wechatpay](source/images/profile/wechatpay.jpeg)
-</div>
+
 
 ## 时间轴
 - :white_medium_square: 待定
