@@ -39,6 +39,12 @@
 * 关于hexo 是个什么东东？可以通过下面的链接去了解：[hexo](https://hexo.io/zh-cn/)     
 * 关于[next]主题：[NexT](http://theme-next.iissnan.com/)   
 
+
+## 赞赏👍
+<div style="width:280px;margin: 0 auto 0 0;">
+![wechatpay](source/images/profile/wechatpay.jpeg)
+</div>
+
 ## 时间轴
 - :white_medium_square: 待定
 - :white_check_mark: 2018-04-02 增加赞赏码
