@@ -47,7 +47,7 @@
 
 ## 时间轴
 - :white_medium_square: 待定
-- :white_check_mark: 2018-04-02 增加赞赏码
+- :white_check_mark: 2018-04-02 增加微信赞赏码
 - :white_check_mark: 2017-11-13 增加gitment评论插件(https://github.com/imsun/gitment)
 - :white_check_mark: 2017-05-21 改用[theme-next主题](http://theme-next.iissnan.com/)
 - :white_check_mark: 2017-03-05 雕刻时光诞生啦
