@@ -41,7 +41,10 @@
 
 
 ## 赞赏👍
+<div>
 <img src="source/images/profile/wechatpay.jpeg" width = "300" height = "300" alt="微信赞赏码" align=center />
+<img src="source/images/profile/alipay.jpeg" width = "300" height = "300" alt="微信赞赏码" align=center />
+</div>
 
 
 ## 时间轴
