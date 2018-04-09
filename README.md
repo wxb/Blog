@@ -41,7 +41,7 @@
 
 
 ## 赞赏👍
-![wechatpay](source/images/profile/wechatpay.jpeg)
+<img src="source/images/profile/wechatpay.jpeg" width = "300" height = "300" alt="微信赞赏码" align=center />
 
 
 ## 时间轴
