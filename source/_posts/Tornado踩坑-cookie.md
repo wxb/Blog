@@ -1,9 +1,10 @@
 ---
 title: Tornado踩坑--cookie
 categories:
-  - null
+  - python
 tags:
-  - null
+  - tornado
+  - cookie
 toc: true
 author: 王晓勃
 comments: true
