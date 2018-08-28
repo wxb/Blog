@@ -17,16 +17,16 @@
 
 ## 我是谁？
 
-![me](source/images/profile/me.jpg)
-* PHP|Python的全栈码农
-* 一个有理想，有追求的码农  
+* Gopher新鸟一枚，从事物联网方向
+* 资深 PHP|Python 系码农
+* 五年全栈开发经历
 
 ## 信念
 
 不服，争取
 
 ## 联系我
-**地点：**`西安`   
+**坐标：**`西安`   
 **QQ:** `670980598`    
 **脉脉:** `wangxb`    
 **E-mail:** `wxb0328@icoud.com`    
@@ -40,16 +40,8 @@
 * 关于[next]主题：[NexT](http://theme-next.iissnan.com/)   
 
 
-## 赞赏👍
-<div>
-<img src="source/images/profile/wechatpay.jpeg" width = "300" height = "300" alt="微信赞赏码" align=center />
-<img src="source/images/profile/alipay.jpeg" width = "300" height = "300" alt="微信赞赏码" align=center />
-</div>
-
-
 ## 时间轴
 - :white_medium_square: 待定
-- :white_check_mark: 2018-04-02 增加微信赞赏码
 - :white_check_mark: 2017-11-13 增加gitment评论插件(https://github.com/imsun/gitment)
 - :white_check_mark: 2017-05-21 改用[theme-next主题](http://theme-next.iissnan.com/)
 - :white_check_mark: 2017-03-05 雕刻时光诞生啦
