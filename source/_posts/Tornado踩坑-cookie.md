@@ -261,3 +261,8 @@ print _decode_signed_value_v2(secret, name, value)
 * `get_secure_cookie`方法中的参数：`max_age_days` 是定义最大有效天数，tornado在设置cookie时，在cookie信息中保存了一下冗余信息，其中就有创建时间 `|10:1535385317|`，通过`get_secure_cookie`获取时会比对这个时间和当前时间的差值，而源码中`max_age_days`默认是31天
 * cookie是否有效取决于这两个参数中较小的一个，由于`max_age_days`默认是31天，所以如果我们只是在`set_secure_cookie`中设置`expires_days`只能保证浏览器存储次cookie的时长，服务器获取到此cookie解密时会默认以31天比对，此时我们设置的`expires_days`就失去了应有的效果
 * tornado在设置包含了一些冗余信息，其中就有创建时间，也就是说tornado设置cookie不只是依靠浏览器的过期时间，还在设置cookie的值时自己保存了一个时间戳，以避免一些应浏览器客户端和服务器时间不匹配导致的问题。所以我们在取一个cookie时记得注意`max_age_days`的指定，以防默认 31 天时长坑了自己
+
+
+---
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=357300&auto=1&height=66"></iframe>
