@@ -1,5 +1,5 @@
 ---
-title: '入坑golang:观感与体验'
+title: go语言梳理-make和new区别
 categories:
   - null
 tags:
@@ -7,7 +7,7 @@ tags:
 toc: true
 author: 王晓勃
 comments: true
-date: 2018-08-29 00:36:56
+date: 2019-01-14 09:16:48
 description:
 original:
 permalink:
