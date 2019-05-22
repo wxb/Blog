@@ -108,6 +108,10 @@ MySQL数据库自身提供的主从复制功能可以方便的实现数据的多
         ```
         mysql> start slave;
         ```
+    * 设置slave只读`read_only`(可选)
+      * 在我们常见的应用中，从数据库一般只服务查询，所以配置从服务器只读可以避免一下人为失误导致的数据不一致
+      * 一般我们使用`read_only`设置slave只读，这种模式下会限制普通用户的写操作；但是不会影响slave同步复制的功能，同时也不能限制拥有super权限的用户进行写数据；
+      * 关于MySQL `read_only` 更多信息：[]();
 ## 验证
   * 查看主从同步状态，主要关注这三个信息：`Slave_IO_Running`,`Slave_SQL_Running`,`Last_IO_Error`,`Last_SQL_Error`
     ![](/images/mysql/11.png)
