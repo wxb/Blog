@@ -1,9 +1,11 @@
 ---
 title: 'php梳理-函数[参数]'
 categories:
-  - null
+  - php
 tags:
-  - null
+  - php
+  - 函数参数
+  - 可变数量的参数列表
 toc: true
 author: 王晓勃
 comments: true
@@ -87,7 +89,7 @@ echo $str;    // outputs 'This is a string, and something extra.'
   ```
 
 
-## 可变数量参数列表
+## 可变数量的参数列表
 对于自定义函数，PHP支持**可变数量**的参数列表, 即函数的参数数量不定。
 * 在 PHP 5.5 及更早版本中，使用函数 func_num_args()，func_get_arg()，和 func_get_args() 。
 ```php
