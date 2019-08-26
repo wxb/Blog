@@ -1,5 +1,5 @@
 ---
-title: PHP中匿名函数和闭包整理
+title: PHP中匿名函数和闭包
 categories:
   - null
 tags:
@@ -14,3 +14,9 @@ permalink:
 ---
 
 <!-- more -->
+
+
+## 匿名函数
+
+
+## 闭包

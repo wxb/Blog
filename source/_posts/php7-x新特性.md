@@ -1,9 +1,9 @@
 ---
 title: php7.x新特性
 categories:
-  - null
+  - php
 tags:
-  - null
+  - php7
 toc: true
 author: 王晓勃
 comments: true
