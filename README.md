@@ -1,5 +1,5 @@
 # 西虢封地(博客)  
-[![站点](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89-yellowgreen.svg)](https://wxb.github.io)
+[![站点](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%e8%a5%bf%e8%99%a2%e5%b0%81%e5%9c%b0-yellowgreen.svg)](https://wxb.github.io)
 [![author](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E7%8E%8B%E6%99%93%E5%8B%83-brightgreen.svg)](https://wxb.github.io/2016/08/30/%E5%85%B3%E4%BA%8E%E6%88%91.html)
 [![Build Status](https://travis-ci.org/wxb/wxb.github.io.svg?branch=source)](https://travis-ci.org/wxb/wxb.github.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/wxb/wxb.github.io.svg)](https://github.com/wxb/wxb.github.io/commits/v1.0.0)
