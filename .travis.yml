@@ -21,7 +21,7 @@ script:
 after_script:
   - cd ./public
   - git init
-  - git config user.name "王晓勃"
+  - git config user.name "西虢技匠"
   - git config user.email "wxb0328@icloud.com"
   - git add .
   - git commit -m "Update docs by wangxb"

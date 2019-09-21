@@ -6,7 +6,7 @@ tags:
   - php
   - 函数返回值
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2019-06-27 10:50:37
 description:

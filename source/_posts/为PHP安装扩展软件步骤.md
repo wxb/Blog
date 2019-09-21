@@ -8,7 +8,7 @@ tags:
   - php-config
   - phpredis
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2017-04-23 00:42:22
 description:

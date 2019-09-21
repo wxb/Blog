@@ -6,7 +6,7 @@ tags:
   - 重载
   - thinkphp
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2017-03-21 15:19:42
 description:
@@ -15,4 +15,3 @@ permalink:
 ---
 
 <!-- more -->
-

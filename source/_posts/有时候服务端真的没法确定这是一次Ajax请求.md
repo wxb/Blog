@@ -7,7 +7,7 @@ tags:
   - http
   - XMLHttpRequest
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2017-03-09 01:49:46
 description:

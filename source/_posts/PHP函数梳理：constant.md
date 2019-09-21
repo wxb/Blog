@@ -5,7 +5,7 @@ categories:
 tags:
   - PHP函数梳理
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2017-10-09 15:09:28
 description:
@@ -99,4 +99,3 @@ print $my_cart->getTotal(0.05) . "\n";
 // 最后结果是 54.29
 
 ```
-

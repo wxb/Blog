@@ -6,7 +6,7 @@ tags:
   - tornado
   - cookie
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2018-08-28 14:33:34
 description:
@@ -266,4 +266,3 @@ print _decode_signed_value_v2(secret, name, value)
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=357300&auto=1&height=66"></iframe>
-

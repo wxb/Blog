@@ -5,7 +5,7 @@ tags:
   - thinkphp
   - trait
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2017-03-12 22:29:43
 description:

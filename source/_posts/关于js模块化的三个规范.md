@@ -6,7 +6,7 @@ tags:
   - AMD
   - CMD
 toc: true
-author: 王晓勃
+author: 西虢技匠
 comments: true
 date: 2017-03-03 09:58:01
 description:
