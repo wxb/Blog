@@ -5,7 +5,7 @@ tags:
   - static静态
   - thinkphp
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2017-03-17 16:22:55
 description:

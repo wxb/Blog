@@ -5,7 +5,7 @@ categories:
 tags:
   - php7
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2019-06-27 10:43:41
 description:

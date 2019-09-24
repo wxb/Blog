@@ -7,7 +7,7 @@ tags:
   - 翻译
   - How nginx processes a request
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2019-05-24 11:09:47
 description:

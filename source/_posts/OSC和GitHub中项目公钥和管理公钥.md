@@ -6,7 +6,7 @@ tags:
   - 配置
   - 公钥
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2016-11-11 17:53:25
 description:

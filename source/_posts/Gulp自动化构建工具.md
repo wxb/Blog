@@ -6,7 +6,7 @@ tags:
   - 学习笔记
   - 原创
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2016-10-17 17:42:31
 description:

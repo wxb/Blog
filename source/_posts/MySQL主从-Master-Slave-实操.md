@@ -5,7 +5,7 @@ categories:
 tags:
   - 主从复制
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2019-05-22 16:07:58
 description:

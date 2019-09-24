@@ -4,7 +4,7 @@ categories:
 tags:
   - 好好玩git
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2016-11-03 14:15:00
 description:

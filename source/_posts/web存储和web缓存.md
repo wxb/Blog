@@ -6,7 +6,7 @@ tags:
   - web存储
   - web缓存
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2017-03-17 16:45:52
 description:

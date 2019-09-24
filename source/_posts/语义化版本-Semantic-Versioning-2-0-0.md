@@ -8,7 +8,7 @@ tags:
   - 转载
   - SemVer
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2019-06-21 15:15:23
 description:

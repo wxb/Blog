@@ -7,7 +7,7 @@ tags:
   - struct
   - 语法基础
 toc: true
-author: 西虢技匠
+author: 虢国技匠
 comments: true
 date: 2018-11-26 10:10:31
 description:
