@@ -6,7 +6,7 @@ tags:
   - AMD
   - CMD
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2017-03-03 09:58:01
 description:

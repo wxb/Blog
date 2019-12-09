@@ -8,7 +8,7 @@ tags:
   - GOPATH
   - 包导入
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2018-11-28 08:56:42
 description:

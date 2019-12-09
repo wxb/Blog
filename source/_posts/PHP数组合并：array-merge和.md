@@ -5,7 +5,7 @@ tags:
   - 数组合并
   - array_merge
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2017-03-17 16:23:28
 description:

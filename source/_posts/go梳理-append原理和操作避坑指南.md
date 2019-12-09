@@ -1,14 +1,14 @@
 ---
-title: 排序算法-快速排序
+title: go梳理-append原理和操作避坑指南
 categories:
-  - 排序算法
+  - golang
 tags:
-  - 排序算法
-  - 快速排序
+  - slice
+  - append
 toc: true
 author: 虢國技酱
 comments: true
-date: 2017-04-10 17:41:11
+date: 2019-12-06 09:46:18
 description:
 original:
 permalink:

@@ -5,7 +5,7 @@ categories:
 tags:
   - 二蛋
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2017-04-02 22:36:03
 description:

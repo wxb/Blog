@@ -5,7 +5,7 @@ categories:
 tags:
   - PHP函数梳理
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2017-10-09 15:09:28
 description:

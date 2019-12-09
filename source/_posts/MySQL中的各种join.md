@@ -5,7 +5,7 @@ tags:
   - join
   - MySQL
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2016-12-15 10:27:11
 description:

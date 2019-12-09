@@ -7,7 +7,7 @@ tags:
   - 小技巧解决大烦恼
   - 版本控制
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2016-12-20 01:26:23
 description:

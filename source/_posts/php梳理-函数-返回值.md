@@ -6,7 +6,7 @@ tags:
   - php
   - 函数返回值
 toc: true
-author: 虢国技匠
+author: 虢國技酱
 comments: true
 date: 2019-06-27 10:50:37
 description:
