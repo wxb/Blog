@@ -78,7 +78,7 @@ deploy:
   message: 'updated by wangxb'
 
 
-avatar: /images/wangxb.jpg
+avatar: /images/wangxb.png
 
 search:
   path: search.xml
