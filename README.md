@@ -25,9 +25,9 @@
 不服，争取
 
 ## 联系我
-**坐标：**`Tencent(西安)`   
-**QQ:** `670980598`    
-**脉脉:** `wangxb`    
+**坐标：**`Tencent(西安)`
+**QQ:** `670980598`
+**脉脉:** `wangxb`
 **E-mail:** `wxb0328@icoud.com`    
 **GitHub:** `github.com/wxb`     
 
