@@ -10,13 +10,13 @@ cache:
 # S: Build Lifecycle
 install:
   - npm install
-  - nvm install v14.0.0
+  - nvm install v10.10.0
 
 before_script:
-  - nvm use v14.0.0
+  - nvm use v10.10.0
 
 script:
-  - hexo generate
+  - hexo generate -f
 
 after_script:
   - cd ./public
@@ -25,7 +25,7 @@ after_script:
   - git config user.email "wxb0328@icloud.com"
   - git add .
   - git commit -m "Update docs by wangxb"
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+  - git push --force "https://${GH_TOKEN}@${GH_REF}" master:master
 # E: Build LifeCycle
 
 branches:
