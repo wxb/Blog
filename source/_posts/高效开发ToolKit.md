@@ -89,6 +89,11 @@ permalink:
     * [micro/go-micro](https://github.com/micro/go-micro) A Go microservices development framework
         > go 微服务框架
 
+    * [coredns/coredns](https://github.com/coredns/coredns)
+        > CoreDNS is a DNS server/forwarder, written in Go, that chains plugins. Each plugin performs a (DNS) function.
+
+    * [go-kratos/kratos](https://github.com/go-kratos/kratos)
+        > Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
 
 * 路由
     * [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) 
@@ -98,7 +103,7 @@ permalink:
     * [golang/sync](https://github.com/golang/sync) Go官方提供的“sync”和“sync/atomic”之外的 并发原语 扩展包 
         > This repository provides Go concurrency primitives in addition to the ones provided by the language and "sync" and "sync/atomic" packages.    
         > https://pkg.go.dev/golang.org/x/sync
-        * [errgroup](https://pkg.go.dev/golang.org/x/sync@v0.0.0-20201207232520-09787c993a3a/errgroup) 
+        * [errgroup](https://pkg.go.dev/golang.org/x/sync@v0.0.0-20201207232520-09787c993a3a/errgroup) 将一个通用的父任务拆成几个小任务并发执行的场景，其实，将一个大的任务拆成几个小任务并发执行，可以有效地提高程序的并发度
           > *Package errgroup provides synchronization, error propagation, and Context cancelation for groups of goroutines working on subtasks of a common task.*
         * [semaphore](https://pkg.go.dev/golang.org/x/sync@v0.0.0-20201207232520-09787c993a3a/semaphore) 
           > *Package semaphore provides a weighted semaphore implementation.*
@@ -106,6 +111,12 @@ permalink:
           > *Package singleflight provides a duplicate function call suppression mechanism.*
         * [syncmap](https://pkg.go.dev/golang.org/x/sync@v0.0.0-20201207232520-09787c993a3a/syncmap) 
           > *Package syncmap provides a concurrent map implementation.*
+
+    * [neilotoole/errgroup](https://github.com/neilotoole/errgroup)
+         > neilotoole/errgroup is a drop-in alternative to Go's wonderful sync/errgroup but limited to N goroutines. This is useful for interaction with rate-limited APIs, databases, and the like.
+         
+    * [marusama/cyclicbarrier](https://github.com/marusama/cyclicbarrier) 循环栅栏:CyclicBarrier允许一组 goroutine 彼此等待，到达一个共同的执行点。同时，因为它可以被重复使用，所以叫循环栅栏。具体的机制是，大家都在栅栏前等待，等全部都到齐了，就抬起栅栏放行
+        > CyclicBarrier is a synchronizer that allows a set of goroutines to wait for each other to reach a common execution point, also called a barrier.
 
     * [Jeffail/tunny](https://github.com/Jeffail/tunny) A goroutine pool for Go
         > Tunny is a Golang library for spawning and managing a goroutine pool, allowing you to limit work coming from any number of goroutines with a synchronous API. 
@@ -144,6 +155,9 @@ permalink:
 
     * [golang/groupcache](https://github.com/golang/groupcache) 缓存框架
         > groupcache is a distributed caching and cache-filling library, intended as a replacement for a pool of memcached nodes in many cases.
+
+    * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
+        > CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
 
 * 配置操作包
     * [ini](https://ini.unknwon.io/) 超赞的 Go 语言 INI 文件操作 
