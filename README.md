@@ -30,7 +30,7 @@
 不服，争取
 
 ## 联系我
-**坐标：**`Tencent(西安)`   
+**坐标：**`Tencent`   
 **QQ:** `670980598`  
 **脉脉:** `wangxb`  
 **E-mail:** `wxb0328@icoud.com`    
@@ -39,7 +39,7 @@
 
 ## 资料
 * [博客园](http://www.cnblogs.com/wxb0328) `已经停止更新`    
-* [个人博客站点](https://wxb.github.io)－基于`hexo 3.+`
+* [个人博客站点](https://wxb.github.io)－基于`hexo 5.4.0`
 * 关于hexo 是个什么东东？可以通过下面的链接去了解：[hexo](https://hexo.io/zh-cn/)     
 * 关于[next]主题：[NexT](http://theme-next.iissnan.com/)   
 
