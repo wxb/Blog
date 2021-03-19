@@ -10,10 +10,10 @@ cache:
 # S: Build Lifecycle
 install:
   - npm install
-  - nvm install v10.10.0
+  - nvm install v14.15.5
 
 before_script:
-  - nvm use v10.10.0
+  - nvm use v14.15.5
 
 script:
   - hexo generate -f
